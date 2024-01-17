@@ -16,7 +16,7 @@ It's especially useful in situations where directly using a custom model as a pa
 
    ```kotlin
    dependencies {
-       implementation "com.kakaoent.made:complex-http-interface-model:{Version}"
+       implementation "com.marrrang:complex-http-interface-model:{Version}"
    }
    ```
 
@@ -65,7 +65,7 @@ It's especially useful in situations where directly using a custom model as a pa
 
    ```kotlin
    dependencies {
-       implementation "com.kakaoent.made:complex-http-interface-model:{Version}"
+       implementation "com.marrrang:complex-http-interface-model:{Version}"
    }
    ```
 
